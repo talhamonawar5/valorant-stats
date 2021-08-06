@@ -1,4 +1,4 @@
-# Project Title
+# Valorant ranked data analysis
 
 A personal project that aims to analyze ranked data of the tactical-FPS Valorant through the pandas library and scikit-learn
 
@@ -29,7 +29,8 @@ There are three divisions from the Iron-Diamond ranks; however, for this project
 the first division for each rank.
 
 First blood % means the percentage of a player getting the first kill on an opponent within the round
-#The Vandal and Phantom are the two primary weapons within the game
+
+The Vandal and Phantom are the two primary weapons within the game
 
 ## Caveats 
 
@@ -43,8 +44,9 @@ to only the data provided by blitz.gg.
 
 ## Authors
 Talha Monawar
+
 tam6131@psu.edu
 
-##Acknowledgements
+## Acknowledgements
 Datasets were extraploted from blitz.gg which uses Riot Games API in order to obtain their data
 
