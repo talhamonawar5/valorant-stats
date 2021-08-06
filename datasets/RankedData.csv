@@ -1,0 +1,121 @@
+﻿Agent Rank,KD,KDA,Win %,Pick %,Avg. Score,First Blood %,Matches,Rank,Agent
+Iron 1 Sage,0.76,10.6 / 14.0 / 5.7,0.518,0.176,160,0.114,510561,Iron 1,Sage
+Iron 1 Raze,0.89,12.9 / 14.5 / 4.7,0.518,0.117,202,0.141,339609,Iron 1,Raze
+Iron 1 Reyna,0.97,14.0 / 14.4 / 4.4,0.516,0.116,212,0.156,338538,Iron 1,Reyna
+Iron 1 Jett,0.93,13.3 / 14.3 / 3.6,0.512,0.101,200,0.156,292383,Iron 1,Jett
+Iron 1 Sova,0.78,11.1 / 14.2 / 5.0,0.511,0.075,170,0.111,217974,Iron 1,Sova
+Iron 1 Phoenix,0.84,12.1 / 14.4 / 3.8,0.49,0.064,183,0.149,186099,Iron 1,Phoenix
+Iron 1 Omen,0.84,12.1 / 14.4 / 3.5,0.507,0.063,178,0.131,184314,Iron 1,Omen
+Iron 1 Killjoy,0.81,11.2 / 13.7 / 4.0,0.537,0.063,171,0.103,184161,Iron 1,Killjoy
+Iron 1 Viper,0.77,10.8 / 14.2 / 4.3,0.491,0.058,165,0.116,169626,Iron 1,Viper
+Iron 1 Yoru,0.82,12.0 / 14.6 / 3.6,0.486,0.046,178,0.14,134385,Iron 1,Yoru
+Iron 1 Brimstone,0.8,11.5 / 14.3 / 4.4,0.496,0.036,175,0.123,104550,Iron 1,Brimstone
+Iron 1 Skye,0.75,10.9 / 14.5 / 4.4,0.512,0.032,163,0.122,91953,Iron 1,Skye
+Iron 1 Cypher,0.8,11.0 / 13.9 / 4.5,0.477,0.029,166,0.108,83487,Iron 1,Cypher
+Iron 1 Breach,0.77,11.2 / 14.6 / 4.7,0.522,0.018,171,0.147,51918,Iron 1,Breach
+Iron 1 Astra,0.81,11.5 / 14.2 / 3.8,0.47,0.007,171,0.117,19533,Iron 1,Astra
+Bronze 1 Sage,0.88,12.6 / 14.3 / 6.6,0.51,0.174,186,0.112,2573103,Bronze 1,Sage
+Bronze 1 Reyna,1.1,16.5 / 15.0 / 4.6,0.516,0.127,241,0.156,1885266,Bronze 1,Reyna
+Bronze 1 Jett,1.07,16.0 / 15.0 / 4.0,0.51,0.106,234,0.168,1568964,Bronze 1,Jett
+Bronze 1 Raze,0.99,15.0 / 15.1 / 5.0,0.514,0.095,228,0.145,1406988,Bronze 1,Raze
+Bronze 1 Omen,0.94,13.9 / 14.9 / 3.8,0.497,0.078,201,0.126,1156476,Bronze 1,Omen
+Bronze 1 Sova,0.91,13.1 / 14.4 / 5.6,0.5,0.075,196,0.109,1110321,Bronze 1,Sova
+Bronze 1 Killjoy,0.92,13.0 / 14.1 / 4.2,0.521,0.073,194,0.102,1076202,Bronze 1,Killjoy
+Bronze 1 Phoenix,0.99,14.6 / 14.8 / 4.3,0.494,0.054,218,0.155,806208,Bronze 1,Phoenix
+Bronze 1 Viper,0.91,13.1 / 14.4 / 4.9,0.504,0.05,193,0.113,739500,Bronze 1,Viper
+Bronze 1 Brimstone,0.9,13.2 / 14.7 / 5.0,0.5,0.045,196,0.119,667131,Bronze 1,Brimstone
+Bronze 1 Cypher,0.92,13.1 / 14.2 / 4.9,0.502,0.034,191,0.105,499698,Bronze 1,Cypher
+Bronze 1 Skye,0.87,12.7 / 14.7 / 4.7,0.494,0.031,187,0.12,463488,Bronze 1,Skye
+Bronze 1 Yoru,0.91,13.7 / 15.1 / 3.9,0.461,0.03,202,0.147,451095,Bronze 1,Yoru
+Bronze 1 Breach,0.87,13.3 / 15.3 / 5.2,0.48,0.02,196,0.146,298911,Bronze 1,Breach
+Bronze 1 Astra,0.94,13.4 / 14.3 / 4.1,0.505,0.009,194,0.117,126786,Bronze 1,Astra
+Silver 1 Sage,0.93,13.4 / 14.4 / 6.7,0.508,0.158,194,0.111,3118599,Silver 1,Sage
+Silver 1 Reyna,1.16,17.6 / 15.2 / 4.5,0.507,0.139,255,0.159,2750226,Silver 1,Reyna
+Silver 1 Jett,1.14,17.4 / 15.2 / 3.9,0.506,0.126,251,0.177,2491095,Silver 1,Jett
+Silver 1 Raze,1.05,16.1 / 15.3 / 5.0,0.51,0.088,241,0.149,1732980,Silver 1,Raze
+Silver 1 Omen,0.97,14.5 / 15.0 / 3.8,0.495,0.085,207,0.125,1690752,Silver 1,Omen
+Silver 1 Sova,0.97,13.9 / 14.4 / 5.9,0.503,0.075,206,0.105,1474818,Silver 1,Sova
+Silver 1 Killjoy,0.96,13.6 / 14.2 / 4.1,0.509,0.069,199,0.102,1368942,Silver 1,Killjoy
+Silver 1 Phoenix,1.06,16.0 / 15.1 / 4.3,0.493,0.053,234,0.158,1039584,Silver 1,Phoenix
+Silver 1 Brimstone,0.95,14.1 / 14.9 / 5.1,0.501,0.046,205,0.117,912441,Silver 1,Brimstone
+Silver 1 Viper,0.96,13.9 / 14.5 / 5.0,0.492,0.046,203,0.113,903720,Silver 1,Viper
+Silver 1 Cypher,0.95,13.8 / 14.5 / 4.9,0.481,0.034,198,0.106,675648,Silver 1,Cypher
+Silver 1 Skye,0.92,13.7 / 14.9 / 4.8,0.48,0.029,197,0.12,566661,Silver 1,Skye
+Silver 1 Yoru,0.97,14.9 / 15.3 / 3.9,0.454,0.022,215,0.151,434928,Silver 1,Yoru
+Silver 1 Breach,0.91,13.9 / 15.3 / 5.3,0.48,0.021,202,0.141,419373,Silver 1,Breach
+Silver 1 Astra,0.99,14.4 / 14.6 / 4.1,0.492,0.011,204,0.112,214149,Silver 1,Astra
+Gold 1 Sage,0.93,13.5 / 14.6 / 6.8,0.509,0.152,193,0.109,2540514,Gold 1,Sage
+Gold 1 Reyna,1.13,17.5 / 15.4 / 4.5,0.507,0.136,249,0.159,2262819,Gold 1,Reyna
+Gold 1 Jett,1.11,17.3 / 15.6 / 3.8,0.502,0.133,246,0.182,2221560,Gold 1,Jett
+Gold 1 Omen,0.96,14.5 / 15.2 / 3.8,0.494,0.095,204,0.12,1582071,Gold 1,Omen
+Gold 1 Raze,1.03,16.1 / 15.6 / 4.9,0.503,0.084,239,0.151,1394952,Gold 1,Raze
+Gold 1 Sova,0.97,14.1 / 14.5 / 6.1,0.502,0.075,205,0.101,1245471,Gold 1,Sova
+Gold 1 Killjoy,0.95,13.7 / 14.3 / 3.9,0.509,0.069,197,0.1,1144032,Gold 1,Killjoy
+Gold 1 Phoenix,1.05,16.2 / 15.4 / 4.3,0.492,0.049,233,0.16,815643,Gold 1,Phoenix
+Gold 1 Viper,0.97,14.0 / 14.5 / 5.1,0.503,0.047,201,0.108,778107,Gold 1,Viper
+Gold 1 Brimstone,0.93,14.0 / 15.0 / 5.2,0.5,0.044,201,0.115,730728,Gold 1,Brimstone
+Gold 1 Cypher,0.95,13.9 / 14.6 / 4.8,0.484,0.036,195,0.103,608328,Gold 1,Cypher
+Gold 1 Skye,0.92,13.8 / 15.0 / 4.8,0.482,0.03,196,0.118,496587,Gold 1,Skye
+Gold 1 Breach,0.89,13.8 / 15.6 / 5.6,0.463,0.022,198,0.136,370005,Gold 1,Breach
+Gold 1 Yoru,0.95,14.7 / 15.6 / 3.9,0.453,0.017,211,0.15,285753,Gold 1,Yoru
+Gold 1 Astra,0.98,14.4 / 14.7 / 4.1,0.491,0.013,202,0.104,214965,Gold 1,Astra
+Platinum 1 Jett,1.1,17.4 / 15.8 / 3.7,0.492,0.148,244,0.189,1213290,Platinum 1,Jett
+Platinum 1 Sage,0.95,13.9 / 14.7 / 6.9,0.512,0.141,196,0.109,1160046,Platinum 1,Sage
+Platinum 1 Reyna,1.11,17.4 / 15.7 / 4.5,0.499,0.136,246,0.16,1118787,Platinum 1,Reyna
+Platinum 1 Omen,0.97,14.7 / 15.3 / 3.8,0.498,0.1,204,0.118,819417,Platinum 1,Omen
+Platinum 1 Raze,1.05,16.6 / 15.8 / 4.9,0.516,0.084,242,0.153,687072,Platinum 1,Raze
+Platinum 1 Sova,0.98,14.3 / 14.6 / 6.4,0.507,0.075,206,0.097,618375,Platinum 1,Sova
+Platinum 1 Killjoy,0.97,14.0 / 14.5 / 3.8,0.499,0.065,198,0.098,534072,Platinum 1,Killjoy
+Platinum 1 Viper,0.97,14.3 / 14.7 / 5.2,0.498,0.047,202,0.106,382602,Platinum 1,Viper
+Platinum 1 Phoenix,1.04,16.4 / 15.7 / 4.4,0.487,0.045,232,0.16,369189,Platinum 1,Phoenix
+Platinum 1 Cypher,0.96,14.1 / 14.8 / 4.8,0.469,0.039,196,0.101,322014,Platinum 1,Cypher
+Platinum 1 Brimstone,0.95,14.2 / 15.0 / 5.2,0.51,0.039,202,0.112,320535,Platinum 1,Brimstone
+Platinum 1 Skye,0.92,14.1 / 15.3 / 5.0,0.474,0.031,197,0.115,254286,Platinum 1,Skye
+Platinum 1 Breach,0.89,14.1 / 15.8 / 5.9,0.443,0.021,199,0.13,168555,Platinum 1,Breach
+Platinum 1 Astra,1,14.7 / 14.7 / 4.1,0.497,0.015,202,0.103,127092,Platinum 1,Astra
+Platinum 1 Yoru,0.95,14.9 / 15.6 / 3.9,0.447,0.013,211,0.152,106743,Platinum 1,Yoru
+Diamond 1 Jett,1.09,17.4 / 16.0 / 3.6,0.498,0.155,242,0.195,516375,Diamond 1,Jett
+Diamond 1 Sage,0.95,14.1 / 14.8 / 6.9,0.506,0.143,197,0.107,475218,Diamond 1,Sage
+Diamond 1 Reyna,1.1,17.4 / 15.8 / 4.5,0.513,0.135,244,0.161,449259,Diamond 1,Reyna
+Diamond 1 Omen,0.96,14.8 / 15.4 / 3.9,0.492,0.105,202,0.113,348024,Diamond 1,Omen
+Diamond 1 Raze,1.03,16.5 / 16.0 / 4.9,0.5,0.082,240,0.154,273870,Diamond 1,Raze
+Diamond 1 Sova,0.98,14.3 / 14.5 / 6.5,0.504,0.08,205,0.093,264894,Diamond 1,Sova
+Diamond 1 Killjoy,0.96,14.0 / 14.6 / 3.8,0.482,0.065,198,0.096,215169,Diamond 1,Killjoy
+Diamond 1 Viper,0.98,14.4 / 14.7 / 5.3,0.502,0.044,202,0.106,145299,Diamond 1,Viper
+Diamond 1 Phoenix,1.04,16.3 / 15.7 / 4.4,0.483,0.041,232,0.163,137751,Diamond 1,Phoenix
+Diamond 1 Cypher,0.95,14.1 / 14.8 / 4.8,0.481,0.04,195,0.1,134130,Diamond 1,Cypher
+Diamond 1 Brimstone,0.95,14.2 / 15.0 / 5.3,0.497,0.034,201,0.107,112353,Diamond 1,Brimstone
+Diamond 1 Skye,0.94,14.4 / 15.3 / 5.0,0.489,0.031,199,0.111,101592,Diamond 1,Skye
+Diamond 1 Breach,0.88,13.7 / 15.6 / 6.1,0.451,0.018,195,0.123,59772,Diamond 1,Breach
+Diamond 1 Astra,0.98,14.7 / 15.0 / 4.3,0.506,0.018,199,0.101,59619,Diamond 1,Astra
+Diamond 1 Yoru,0.96,15.0 / 15.7 / 3.9,0.452,0.011,211,0.149,35088,Diamond 1,Yoru
+Immortal Jett,1.07,17.3 / 16.1 / 3.5,0.493,0.168,240,0.201,813450,Immortal,Jett
+Immortal Sage,0.96,14.3 / 14.8 / 7.0,0.513,0.135,198,0.105,653820,Immortal,Sage
+Immortal Reyna,1.09,17.3 / 15.9 / 4.3,0.501,0.129,240,0.162,626127,Immortal,Reyna
+Immortal Omen,0.97,14.8 / 15.3 / 4.0,0.499,0.105,202,0.112,510357,Immortal,Omen
+Immortal Sova,0.98,14.3 / 14.6 / 6.7,0.508,0.09,204,0.089,435591,Immortal,Sova
+Immortal Raze,1.03,16.7 / 16.1 / 4.9,0.514,0.084,242,0.153,406929,Immortal,Raze
+Immortal Killjoy,1,14.5 / 14.5 / 3.7,0.512,0.068,201,0.097,327675,Immortal,Killjoy
+Immortal Viper,0.98,14.4 / 14.8 / 5.3,0.506,0.046,200,0.106,224145,Immortal,Viper
+Immortal Cypher,0.95,14.2 / 14.9 / 4.7,0.461,0.042,195,0.097,205377,Immortal,Cypher
+Immortal Phoenix,1.02,16.2 / 15.8 / 4.4,0.484,0.034,228,0.162,164424,Immortal,Phoenix
+Immortal Skye,0.91,14.3 / 15.7 / 5.2,0.478,0.033,195,0.117,158049,Immortal,Skye
+Immortal Brimstone,0.96,14.4 / 15.0 / 5.2,0.508,0.027,202,0.106,130305,Immortal,Brimstone
+Immortal Astra,0.99,14.7 / 14.9 / 4.5,0.485,0.022,198,0.097,105978,Immortal,Astra
+Immortal Breach,0.87,13.5 / 15.5 / 6.8,0.45,0.01,191,0.112,49419,Immortal,Breach
+Immortal Yoru,0.92,14.8 / 16.0 / 3.9,0.411,0.008,207,0.158,39984,Immortal,Yoru
+Radiant Jett,1.14,18.6 / 16.4 / 3.6,0.511,0.193,253,0.206,65943,Radiant,Jett
+Radiant Reyna,1.15,18.4 / 16.0 / 4.3,0.515,0.137,250,0.164,46716,Radiant,Reyna
+Radiant Sova,1.05,15.4 / 14.7 / 7.2,0.516,0.114,216,0.086,38811,Radiant,Sova
+Radiant Sage,1.01,15.3 / 15.1 / 6.9,0.521,0.113,206,0.105,38454,Radiant,Sage
+Radiant Raze,1.04,17.3 / 16.7 / 4.9,0.465,0.097,247,0.159,32997,Radiant,Raze
+Radiant Omen,0.99,15.3 / 15.4 / 4.3,0.488,0.087,205,0.11,29682,Radiant,Omen
+Radiant Killjoy,1.05,15.7 / 14.9 / 3.6,0.485,0.051,212,0.093,17238,Radiant,Killjoy
+Radiant Viper,1.02,15.2 / 15.0 / 5.4,0.522,0.05,210,0.105,17187,Radiant,Viper
+Radiant Skye,0.99,15.8 / 15.9 / 5.4,0.456,0.036,208,0.102,12189,Radiant,Skye
+Radiant Cypher,1.05,16.0 / 15.2 / 5.0,0.436,0.033,212,0.098,11118,Radiant,Cypher
+Radiant Phoenix,1.06,17.3 / 16.2 / 4.6,0.471,0.031,233,0.164,10506,Radiant,Phoenix
+Radiant Astra,1.07,15.9 / 14.9 / 4.6,0.554,0.028,213,0.101,9384,Radiant,Astra
+Radiant Brimstone,0.97,15.3 / 15.7 / 5.4,0.454,0.016,210,0.117,5508,Radiant,Brimstone
+Radiant Yoru,1.06,16.0 / 15.0 / 4.4,0.507,0.011,221,0.149,3825,Radiant,Yoru
+Radiant Breach,0.75,11.9 / 15.8 / 7.0,0.375,0.005,167,0.131,1632,Radiant,Breach
