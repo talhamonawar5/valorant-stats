@@ -29,7 +29,7 @@ There are three divisions from the Iron-Diamond ranks; however, for this project
 the first division for each rank.
 
 First blood % means the percentage of a player getting the first kill on an opponent within the round
-The Vandal and Phantom are the two primary weapons within the game
+#The Vandal and Phantom are the two primary weapons within the game
 
 ## Caveats 
 
