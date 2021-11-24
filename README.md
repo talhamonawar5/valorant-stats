@@ -3,11 +3,11 @@
 A personal project that aims to analyze ranked data of the tactical-FPS Valorant through the pandas library and scikit-learn
 
 ## Description
-The purpose of this project is to depict the disparites between each rank within the ranked system of the tactical-FPS shooter
-Valorant. Through conducting an exploratory data analysis (EDA) by utilizing the Python pandas library,
+The purpose of this project is to depict the disparites between each rank within the ranked system of the tactical-FPS (First-person-shooter)
+Valorant. Through conducting an exploratory data analysis (EDA) by utilizing the Python pandas library and sci-kit learn,
 we are able to show the more nuanced aspects of skill that differentiate players between each rank. 
 
-The data was extrapolated from the website blitz.gg and processed into a .CSV file
+The data was extrapolated from the website blitz.gg and processed into a .CSV file.
 Blitz.gg gets their data from API of the company that developed Valorant (Riot Games)
 
 The project also consists of two machine learning models developed
